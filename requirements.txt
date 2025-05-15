@@ -1,0 +1,7 @@
+openai==1.77.0
+beautifulsoup4==4.13.4
+requests==2.32.3
+dotenv==0.9.9
+ipython
+ollama
+
