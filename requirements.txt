@@ -4,5 +4,6 @@ requests==2.32.3
 dotenv==0.9.9
 ipython
 ollama
-google-generativeai==0.8.5
-gradio==5.29.1
+google-genai
+gradio
+huggingface_hub
