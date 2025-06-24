@@ -7,3 +7,10 @@ ollama
 google-genai
 gradio
 huggingface_hub
+langchain
+langchain-community
+langchain_openai
+langchain_chroma
+numpy
+scikit-learn
+plotly
