@@ -14,3 +14,10 @@ langchain_chroma
 numpy
 scikit-learn
 plotly
+datasets
+items
+matplotlib
+transformers
+gensim
+sentence_transformers
+chromadb
